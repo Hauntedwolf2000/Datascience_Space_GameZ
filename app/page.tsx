@@ -1053,8 +1053,8 @@ export default function HomePage() {
                 }}
               >
                 {[
-                  { val: "30", label: "QUESTIONS", color: "var(--green-hi)" },
-                  { val: "3", label: "LEVELS", color: "var(--amber)" },
+                  { val: "250", label: "QUESTIONS", color: "var(--green-hi)" },
+                  { val: "5", label: "LEVELS", color: "var(--amber)" },
                   { val: "3", label: "HULL PTS", color: "var(--red-hi)" },
                 ].map((s) => (
                   <div key={s.label}>
