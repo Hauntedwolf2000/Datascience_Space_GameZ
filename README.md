@@ -7,7 +7,7 @@
 
 ## 🎮 Live Demo
 
-> http://localhost:3000/game/
+> https://datashoot.netlify.app/
 
 ---
 
